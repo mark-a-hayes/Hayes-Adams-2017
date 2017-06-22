@@ -1,0 +1,14 @@
+Notes on the files contained in this GitHub repository:
+
+The "MYTH data" file is a csv file and shows the adult female fringed myotis data from Boulder County, Colorado, for years 1996 - 2008.
+The "Years" column indicates the year and the "repro" column indicates whether the given individual was reproductive (1) or 
+non-reproductive (0) for that year.
+
+The "Mathematica notebooks" file is a pdf file of the Worlfram Mathematica notebooks used in this analysis. These notebooks
+include code in the Wolfram language with associated comments throughout. If you would like copies of the original 
+Mathematica files, please let me know. 
+
+The "elasticity" file is an excel file and shows how elasticity was calculated.
+
+Mark A. Hayes
+June 22, 2017  
