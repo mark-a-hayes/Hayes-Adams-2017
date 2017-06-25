@@ -6,7 +6,7 @@ non-reproductive (0) for that year.
 
 The "Mathematica notebooks" file is a pdf file of the Worlfram Mathematica notebooks used in this analysis. These notebooks
 include code in the Wolfram language with associated comments throughout. Note: these are not the final notebooks used for final
-Monte Carlo simulations, but are provided here as examples of the notebooks for thos without access to Mathematica software,
+Monte Carlo simulations, but are provided here as examples of the notebooks for those without access to Mathematica software,
 or without access to the free Mathematica CDF reader, which allows users without Mathematica software to view notebooks (available here: https://www.wolfram.com/cdf-player/).
 
 The "elasticity" file is an excel file and shows how elasticity was calculated.
@@ -17,8 +17,7 @@ The final Mathematica notebooks are provided as follows:
 "Stable Monte Carlo simulations.nb" shows all steps to create and run the "Stable Population" model (Table 3), which results in a stable population in later years.
 "Boulder ensemble Monte Carlo simulations.nb" shows all steps to create and run the "Boulder Ensemble" models (Table 3).
 "Boulder NCAR Monte Carlo simulations.nb" shows all steps to create and run the "Boulder NCAR" models (Table 3).
-"Rangewide Monte Carlo simulations.nb" shows all steps to create and run the "General" models (Table 3). Note: the rangewide results shown in this notebook are slightly 
-different from those in Table 3; they show later runs to check general patterns of population decline.  
+"Rangewide Monte Carlo simulations.nb" shows all steps to create and run the "General" models (Table 3). Note: the rangewide results shown in this notebook are slightly different from those in Table 3; they show later runs to check general patterns of population decline.  
 
 
 Mark A. Hayes
